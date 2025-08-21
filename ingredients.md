@@ -1,4 +1,4 @@
-<p>top bun</p>
+<p>top bun</p>g
+<p>cheese (added by kain)</p>
 <p>tomato sauce (added by Tom O'C)</p>
-<p>steak</p>
 <p>bottom bun</p>
